@@ -1,4 +1,4 @@
-# GSoC 2027 Guide for Praneeth
+# GSoC 2027 Guide 
 
 A practical organization shortlist and contribution roadmap for preparing early for **Google Summer of Code 2027**.
 
